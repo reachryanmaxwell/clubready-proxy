@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/unread-messages",
+      "dest": "/api/unread-messages.js"
+    }
+  ]
+}
